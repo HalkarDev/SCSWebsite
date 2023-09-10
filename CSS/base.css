@@ -10,6 +10,7 @@
 .youtube {
     color: red;
     object-position: center;
+    margin-right: 10px;
 }
 .github {
     color: blue;
@@ -22,4 +23,7 @@ p {
 }
 .social {
     text-align: center;
+}
+.message {
+    display: inline-block;
 }
