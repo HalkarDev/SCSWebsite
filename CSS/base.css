@@ -1,12 +1,25 @@
 .header {
+    text-align: center;
     font-weight:bold;
     font-size: 30px;
-    font-family: Trebuchet MS;
-}
-.question {
-    font-family: Trebuchet MS;
 }
 .header2 {
-    font-family: Trebuchet MS;
+    text-align: center;
     font-size: 20px;
+}
+.youtube {
+    color: red;
+    object-position: center;
+}
+.github {
+    color: blue;
+}
+.description {
+    text-align: center;
+}
+p {
+    font-family: Trebuchet MS;
+}
+.social {
+    text-align: center;
 }
