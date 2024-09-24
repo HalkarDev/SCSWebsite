@@ -36,9 +36,9 @@ mode.onclick = () => {
             i.style.color = "black";
         }   
         // heading.style.color = "black";
-        modeIcon.src = "/../Images/sun.png";
+        modeIcon.src = "/Images/sun.png";
         for (let i of skylarIcons) {
-            i.src = "/../Images/skylarsun.jpg";
+            i.src = "/Images/skylarsun.jpg";
         }
         if (dropdown != null) {
             dropdown.style.border = "1px solid black";
@@ -68,9 +68,9 @@ mode.onclick = () => {
         for (let i of elements4) {
             i.style.color = "white";
         }   
-        modeIcon.src = "/../Images/moon.png";
+        modeIcon.src = "/Images/moon.png";
         for (let i of skylarIcons) {
-            i.src = "/../Images/skylarmoon.jpg";
+            i.src = "/Images/skylarmoon.jpg";
         }
         if (dropdown != null) {
         dropdown.style.border = "1px solid white";
